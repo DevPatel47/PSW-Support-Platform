@@ -1,0 +1,20 @@
+{
+  "name": "psw-support-website",
+  "version": "1.0.0",
+  "description": "A full-stack MERN application that connects Personal Support Workers (PSWs) with individuals in need of care. Features include user authentication, PSW profiles, service booking, and reviews — providing a secure, efficient, and user-friendly support platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevPatel47/PSW-Support-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevPatel47/PSW-Support-Website/issues"
+  },
+  "homepage": "https://github.com/DevPatel47/PSW-Support-Website#readme"
+}
