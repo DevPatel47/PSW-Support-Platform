@@ -1,10 +1,10 @@
-# 🩺 PSW Support Platform
+# PSW Support Platform
 
 A web platform aimed at **connecting Personal Support Workers (PSWs) with clients** who need their services. The platform is designed to make booking, communication, and service discovery **secure, efficient, and user-friendly**.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -16,19 +16,19 @@ A web platform aimed at **connecting Personal Support Workers (PSWs) with client
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 
 The demand for Personal Support Workers is growing, but clients often struggle to find reliable PSWs, and PSWs find it hard to reach clients efficiently. This project seeks to **create a centralized platform** addressing this gap.
 
 ---
 
-## ⚠️ Problem Statement
+## Problem Statement
 
 There is no easy-to-use, centralized system for connecting PSWs with people who need their services. This leads to inefficiencies, miscommunication, and difficulty in finding trustworthy care.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Build a platform that connects PSWs and clients.
 - Allow PSWs to create detailed profiles (skills, availability, experience).
@@ -37,16 +37,16 @@ There is no easy-to-use, centralized system for connecting PSWs with people who 
 
 ---
 
-## 📌 Scope
+## Scope
 
-✅ **In-Scope (Initial Planning / MVP):**
+**In-Scope (Initial Planning / MVP):**
 
 - User authentication (Sign up / Login)
 - PSW & Client profile concepts
 - Basic booking workflow
 - High-level design and documentation
 
-❌ **Out of Scope (Future Enhancements):**
+**Out of Scope (Future Enhancements):**
 
 - Payment integration
 - Video call support
@@ -54,7 +54,7 @@ There is no easy-to-use, centralized system for connecting PSWs with people who 
 
 ---
 
-## ✨ High-Level Features (Conceptual)
+## High-Level Features (Conceptual)
 
 - User registration & login
 - PSW profiles
@@ -64,7 +64,7 @@ There is no easy-to-use, centralized system for connecting PSWs with people who 
 
 ---
 
-## 📄 System Design & Documentation
+## System Design & Documentation
 
 All detailed project documentation can be found in the `docs/` folder:
 
@@ -76,7 +76,7 @@ All detailed project documentation can be found in the `docs/` folder:
 
 ---
 
-## ✅ Completed Steps
+## Completed Steps
 
 - **Project Kickoff & Planning**
   - Define vision, scope, and target audience.
@@ -86,7 +86,7 @@ All detailed project documentation can be found in the `docs/` folder:
 
 ---
 
-## 🔜 Next Steps
+## Next Steps
 
 - **Requirements Gathering & Documentation**
 
@@ -151,8 +151,8 @@ All detailed project documentation can be found in the `docs/` folder:
   - Add small polish: responsive design, better UI.
 
 - **Deployment**
-    - Deploy backend on Render.
-    - Deploy frontend on Vercel.
-    - Final testing.
+  - Deploy backend on Render.
+  - Deploy frontend on Vercel.
+  - Final testing.
 
 ---
