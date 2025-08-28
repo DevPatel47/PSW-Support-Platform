@@ -11,8 +11,8 @@ A web platform aimed at **connecting Personal Support Workers (PSWs) with client
 - [Objectives](#objectives)
 - [Scope](#scope)
 - [High-Level Features](#high-level-features)
-- [Completed Steps](#-completed-steps)
-- [Next Steps](#-next-steps)
+- [Completed Steps](#completed-steps)
+- [Next Steps](#next-steps)
 
 ---
 
@@ -54,7 +54,7 @@ There is no easy-to-use, centralized system for connecting PSWs with people who 
 
 ---
 
-## High-Level Features (Conceptual)
+## High-Level Features
 
 - User registration & login
 - PSW profiles
