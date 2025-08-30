@@ -84,16 +84,16 @@ All detailed project documentation can be found in the `docs/` folder:
   - Identify main features (booking, profiles, messaging, reviews, etc.).
   - Start SDLC documentation (Project Charter, Feasibility, High-Level Requirements).
 
----
-
-## Next Steps
-
 - **Requirements Gathering & Documentation**
 
   - Write Functional & Non-functional requirements.
   - Create Use Case Diagram / User Stories.
   - Define roles (PSW, Client, Admin).
   - Start Database design (ERD) draft.
+
+---
+
+## Next Steps
 
 - **System Design**
 
